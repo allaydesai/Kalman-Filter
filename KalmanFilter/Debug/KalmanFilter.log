@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\allay\source\repos\kalmanfilter\kalmanfilter\main.cpp(131): warning C4244: 'initializing': conversion from 'const double' to 'float', possible loss of data
+c:\users\allay\source\repos\kalmanfilter\kalmanfilter\main.cpp(132): warning C4244: 'initializing': conversion from 'const double' to 'float', possible loss of data
+c:\users\allay\source\repos\kalmanfilter\kalmanfilter\main.cpp(133): warning C4244: 'initializing': conversion from 'const double' to 'float', possible loss of data
+c:\users\allay\source\repos\kalmanfilter\kalmanfilter\main.cpp(134): warning C4244: 'initializing': conversion from 'const double' to 'float', possible loss of data
+  KalmanFilter.vcxproj -> C:\Users\Allay\source\repos\KalmanFilter\Debug\KalmanFilter.exe
